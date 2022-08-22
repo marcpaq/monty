@@ -1,10 +1,9 @@
 # Welcome to Monty
 
-Use the Monty service for knight management as a service (KMaaS).
+Use the Monty service for knight management as a service (KMaaS):
 
-[API](api.html)
-
-[Blessed State](blessed.html)
+* [Blessed State](blessed.html)
+* [API Reference](api.html)
 
 ## Notes
 
