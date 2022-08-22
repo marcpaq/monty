@@ -3,7 +3,8 @@
 Use the Monty service for knight management as a service (KMaaS).
 
 [API](api.html)
-[Blessed State](blessed/)
+
+[Blessed State](blessed.html)
 
 ## Notes
 
