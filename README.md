@@ -2,6 +2,9 @@
 
 Use the Monty service for knight management as a service (KMaaS).
 
+[API](api.html)
+[Blessed State](blessed/)
+
 ## Notes
 
 RestKnight properties: There is no info about the format constraints
