@@ -64,9 +64,10 @@ You can bring your kingdom to the _Blessed State_ by meeting these conditions:
 
 To do this, make these calls to the service, in this order:
 
-1. Update Sir Gawain's best friend to Sir Kay.
-2. Update Sir Kay's best friend to be Sir Gawain.
-3. Update Sir Bors' best friend to be Sir Kay.
-4. Slay Sir Gawain.
-5. Slay Sir Kay.
+1. Update Sir Gawain's shrubbery description to 5 characters or less.
+2. Update Sir Gawain's best friend to Sir Kay.
+3. Update Sir Kay's best friend to be Sir Gawain.
+4. Update Sir Bors' best friend to be Sir Kay.
+5. Slay Sir Gawain.
+6. Slay Sir Kay.
 
