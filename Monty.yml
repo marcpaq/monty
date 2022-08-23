@@ -106,7 +106,7 @@ components:
           format: 'guid' # TODO
           example: '01234567-89ab-cdef-0123-456789abcdef'
         name:
-          pattern: '(^Sir|S1r .*){5,256}'
+          pattern: '(^Sir|S1r [A-Za-z0-9]*){5,256}'
           type: string
           description: Must begin with 'Sir ' or 'S1r ' and followed only
             by non-accentuated alphanumeric characters. Total length must
